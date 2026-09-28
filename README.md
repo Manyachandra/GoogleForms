@@ -14,7 +14,8 @@ A Visual Basic .NET project inspired by Google Forms for building and collecting
 ## Project Structure
 ```
 ├── README.md
-├── sources/
+├── LICENSE
+├── FormsGoogle/
 └── project files
 ```
 
